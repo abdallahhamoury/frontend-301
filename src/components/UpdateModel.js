@@ -37,7 +37,7 @@ class UpdateModel extends React.Component {
                                 <Form.Control type="text" defaultValue={this.props.item.price} name="price" />
                             </Form.Group>
                             <Button variant="secondary" type="submit">
-                                Close
+                               update
                             </Button>
                         </Form>
                     </Modal.Body>
